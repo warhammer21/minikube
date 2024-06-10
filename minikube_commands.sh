@@ -16,3 +16,4 @@ kubectl apply -f hello-pod.yml
 kubectl get pods
 kubectl apply -f flask-hello/hello-service.yml
 kubectl apply -f flask-hello/hello-ingress.yml
+# done
